@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0D09CC29-605C-4F8D-B6B3-E1DBC75C54BB}|https">
+  <MonoDevelop.Ide.ItemProperties.LabWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabWebApp" expanded="True">
+            <Node name="LabWebApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Products" expanded="True">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
