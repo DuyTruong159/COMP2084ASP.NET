@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Truong\\Desktop\\LabWebApp\\LabWebApp\\LabWebApp.csproj": {}
+    "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebApp\\LabWebApp\\LabWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Truong\\Desktop\\LabWebApp\\LabWebApp\\LabWebApp.csproj": {
+    "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebApp\\LabWebApp\\LabWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\LabWebApp\\LabWebApp\\LabWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebApp\\LabWebApp\\LabWebApp.csproj",
         "projectName": "LabWebApp",
-        "projectPath": "C:\\Users\\Truong\\Desktop\\LabWebApp\\LabWebApp\\LabWebApp.csproj",
+        "projectPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebApp\\LabWebApp\\LabWebApp.csproj",
         "packagesPath": "C:\\Users\\Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong\\Desktop\\LabWebApp\\LabWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebApp\\LabWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",

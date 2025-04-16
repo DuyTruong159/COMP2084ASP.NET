@@ -8228,11 +8228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
+      "projectUniqueName": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
       "projectName": "LabWebSecurity",
-      "projectPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
+      "projectPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
       "packagesPath": "C:\\Users\\Truong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\obj\\",
+      "outputPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebSecurity\\LabWebSecurity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",

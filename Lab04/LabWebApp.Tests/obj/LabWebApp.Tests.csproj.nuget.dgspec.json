@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebApp.Tests\\LabWebApp.Tests.csproj": {}
+    "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\LabWebApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebApp.Tests\\LabWebApp.Tests.csproj": {
+    "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\LabWebApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
         "projectName": "LabWebApp.Tests",
-        "projectPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
+        "projectPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\LabWebApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj": {
-                "projectPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj"
+              "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\LabWebSecurity.csproj": {
+                "projectPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\LabWebSecurity.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj": {
+    "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\LabWebSecurity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
+        "projectUniqueName": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\LabWebSecurity.csproj",
         "projectName": "LabWebSecurity",
-        "projectPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
+        "projectPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\LabWebSecurity.csproj",
         "packagesPath": "C:\\Users\\Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\obj\\",
+        "outputPath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",

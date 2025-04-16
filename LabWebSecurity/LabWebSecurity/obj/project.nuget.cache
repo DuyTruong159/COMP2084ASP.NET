@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4r5C8pJ4Q5w=",
+  "dgSpecHash": "vtzPM68q2hA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Truong\\Desktop\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
+  "projectFilePath": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\LabWebSecurity\\LabWebSecurity\\LabWebSecurity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Truong\\.nuget\\packages\\aspnet.security.oauth.github\\8.3.0\\aspnet.security.oauth.github.8.3.0.nupkg.sha512",
     "C:\\Users\\Truong\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
