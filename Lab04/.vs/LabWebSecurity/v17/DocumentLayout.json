@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BCC987DB-C837-4EA7-A9EC-2EA7777E5043}|LabWebApp.Tests\\LabWebApp.Tests.csproj|c:\\users\\truong\\desktop\\comp2084asp.net\\lab04\\labwebapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCC987DB-C837-4EA7-A9EC-2EA7777E5043}|LabWebApp.Tests\\LabWebApp.Tests.csproj|solutionrelative:labwebapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CB30E55-4DCD-4992-9359-C322D205E01E}|LabWebSecurity\\LabWebSecurity.csproj|c:\\users\\truong\\desktop\\comp2084asp.net\\lab04\\labwebsecurity\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CB30E55-4DCD-4992-9359-C322D205E01E}|LabWebSecurity\\LabWebSecurity.csproj|solutionrelative:labwebsecurity\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +32,9 @@
               "RelativeDocumentMoniker": "LabWebApp.Tests\\ProductTests.cs",
               "ToolTip": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebApp.Tests\\ProductTests.cs",
               "RelativeToolTip": "LabWebApp.Tests\\ProductTests.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T22:57:47.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\Controllers\\ProductsAPIController.cs",
-              "RelativeDocumentMoniker": "LabWebSecurity\\Controllers\\ProductsAPIController.cs",
-              "ToolTip": "C:\\Users\\Truong\\Desktop\\COMP2084ASP.NET\\Lab04\\LabWebSecurity\\Controllers\\ProductsAPIController.cs",
-              "RelativeToolTip": "LabWebSecurity\\Controllers\\ProductsAPIController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T22:55:54.612Z",
+              "WhenOpened": "2025-04-17T00:10:16.385Z",
               "EditorCaption": ""
             }
           ]

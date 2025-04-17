@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWebSecurity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21fcc5bf475e85be12b36ea4cc5c4db4616b217f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed8ecbd3e733d9fcbe32b4e56f80eac194ea9f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWebSecurity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWebSecurity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

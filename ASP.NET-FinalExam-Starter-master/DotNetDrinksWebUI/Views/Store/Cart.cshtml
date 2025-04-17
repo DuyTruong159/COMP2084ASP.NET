@@ -19,6 +19,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Price)
             </th>
+            <th class="text-end">
+                Line Item Total
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -43,6 +46,9 @@
                 <td class="text-right">
                     @* use generic C format provider to format decimal to currency *@
                     @item.Price.ToString("C")
+                </td>
+                <td class="text-end">
+                    @((item.Price * item.Quantity).ToString("C"))
                 </td>
                 <td>
                     @* asp-controller by default is the same as the folder where view is *@
